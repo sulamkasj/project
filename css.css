@@ -1,0 +1,18 @@
+body {
+	background: tomato;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 2em;
+}
+
+.box {
+	background: #fff;
+	width: 100px;
+	height: 150px;
+	border-radius: 5px;
+	margin: 1em;
+}
+
+p {
+	line-height: 150px;
+	text-align: center;
+}
